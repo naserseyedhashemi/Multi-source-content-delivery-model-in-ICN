@@ -1,6 +1,6 @@
 %   University of Isfahan, Isfahan, Iran
 %   Computer engineering faculty  
-%   Author:  Seyyed Nasser Seyyed Hashemi
+%   Author:  Seyyed Naser Seyyed Hashemi
 %                   n.s.hashemi@eng.ui.ac.ir
 %                   naser_seyed_hashemi@yahoo.com
 %   
